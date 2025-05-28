@@ -1,0 +1,6 @@
+{
+    "dependencies": ["requirements.txt"],
+    "graphs": {
+      "default": "graph_app:graph_app"
+    }
+  }
